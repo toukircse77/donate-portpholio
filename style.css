@@ -196,3 +196,54 @@ padding: 20px 0px;
     padding: 20px 0px;
     margin-top: 10px;
 }
+.update-section{
+    margin: 30px auto;
+    text-align: center;
+    padding: 20px;
+}
+.update-section p{
+    color: gray;
+    margin: 10px;
+}
+.form{
+    text-align: center;
+    padding: 20px;
+    background-color: bisque;
+    width: 60%;
+    height:100px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    
+}
+.subscribe{
+    margin-top: 40px;
+}
+input{
+    padding: 10px;
+    background-color: rgb(241, 236, 236);
+    color: dimgray;
+    border: none;
+    border-radius: 5px;
+}
+button{
+    padding: 10px 30px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(243, 73, 73);
+}
+footer{
+    text-align: center;
+    background-color:rgb(47, 47, 131) ;
+    padding: 20px;
+}
+footer h1{
+    font-style: italic;
+    font-weight: 700;
+    color: whitesmoke;
+    padding: 10px;
+    
+}
+footer p{
+    color: gray;  
+}
