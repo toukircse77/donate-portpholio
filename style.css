@@ -79,8 +79,8 @@ font-family: 'Roboto', sans-serif;
     margin-bottom: 10px;
 }
 hr{
-    margin-top:5px;
-    margin-bottom: 15px;
+    margin-top: 10px;
+    margin-bottom: 30px;
 }
 .payment a{
     text-decoration: none;
@@ -88,6 +88,46 @@ hr{
     background-color: coral;
     color: white;
     border-radius: 5px;
-    margin-bottom: 40px;
-    margin-top: 10px;
+    margin: 20px;
+    
+}
+.plan{
+    margin: 0 auto;
+    text-align: center;
+}
+.plan h1{
+    
+    font-weight: 700;
+    margin-top: 50px;
+    margin-bottom: 10px;
+   
+}
+.plan p{
+    color: gray;
+    margin-bottom: 20px;
+}
+.cards{
+    width: 30%;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px grey;
+    background-color: white;
+    margin:10px;
+    display: inline-block;
+}
+.image img{
+    width: 100%;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.title h1{
+    text-align: center;
+    padding: 10px;
+}
+.description p{
+    text-align: center;
+    padding: 10px;
+}
+.cards a{
+    padding: 20px;
+    text-decoration: none;
 }
