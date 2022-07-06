@@ -131,3 +131,68 @@ hr{
     padding: 20px;
     text-decoration: none;
 }
+.article{
+    display: flex;
+    
+}
+
+.left-article{
+    float: left;
+    text-align: left; 
+}
+.article-description{
+    padding: 20px 0px;
+    margin-right: 10px;
+}
+.left-article h1{
+padding: 20px 0px;
+}
+.left-article p{
+    padding: 10px 0px;
+}
+.left-article a{
+    padding: 15px 40px;
+    
+}
+.text-bold{
+    font-weight: 900;
+}
+.right-article img{
+    float: left;
+    width: 100%;
+    border-radius: 5px;
+}
+.contribute-btn{
+    padding: 15px 15px;
+    text-decoration: none;
+    background-color: tomato;
+    border-radius: 5px;
+    color:white;
+}
+.article {
+    margin: 0 20px;
+    margin-left:45px;
+    margin-right: 45px;
+    padding: 20px 0px;
+}
+
+.left-article2 img{
+
+    width: 100%;
+    border-radius: 5px;
+}
+.right-article2{
+    text-align: left;
+    padding: 20px;
+    margin-left: 20px;
+}
+.article-description2{
+    margin-bottom: 25px;
+}
+.article-description2 p{
+    padding: 10px 0px; 
+}
+.article-description2 a{
+    padding: 20px 0px;
+    margin-top: 10px;
+}
